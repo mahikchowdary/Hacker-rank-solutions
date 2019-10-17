@@ -335,3 +335,4 @@ Solutions to problems on [HackerRank](https://www.hackerrank.com)
 |:----------------------:|:--------------------------------------------------------------------------------------------------------:|:------:|:----------:|:-----------------------------------------------------------------------------------------------------------------------------------:|
 |      Introduction      | [Solve Me First FP](https://www.hackerrank.com/challenges/fp-solve-me-first)                             |    3   |    Easy    | [Solution.scala](Functional%20Programming/Introduction/Solve%20Me%20First%20FP/Solution.scala)                                      |
 |      Introduction      | [Hello World](https://www.hackerrank.com/challenges/fp-hello-world)                                      |    5   |    Easy    | [Solution.scala](Functional%20Programming/Introduction/Hello%20World/Solution.scala)                                                |
+# Thanks it helped a lot
